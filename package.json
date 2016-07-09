@@ -17,9 +17,9 @@
   "dependencies": {
     "classnames": "^2.2.3",
     "history": "^2.1.0",
-    "react": "^15.2.0",
-    "react-addons-pure-render-mixin": "^15.2.0",
-    "react-dom": "^15.2.0",
+    "react": "^15.2.1",
+    "react-addons-pure-render-mixin": "^15.2.1",
+    "react-dom": "^15.2.1",
     "react-mounter": "^1.2.0",
     "react-router": "^2.5.2"
   }

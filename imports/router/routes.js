@@ -6,8 +6,25 @@ import App from '../ui/components/App.jsx';
 import About from '../ui/pages/About.jsx';
 import NotFound from '../ui/pages/NotFound.jsx';
 
+/*
+   const routes = [
+   {
+path: '/',
+component: MainLayout
+},
+{
+path: '/about',
+component: About
+}, {
+path: '*',
+component: NotFound
+}
+];
+
+export default routes;
+*/ 
 FlowRouter.route('/', {
-  name: 'Main',
+  name: 'Index',
   action() {
     mount(MainLayout, {
       children: <App /> 

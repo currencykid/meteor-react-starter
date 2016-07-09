@@ -25,3 +25,5 @@ standard-minifier-js
 gadicc:blaze-react-component
 kadira:flow-router
 twbs:bootstrap
+react-meteor-data
+meteortoys:allthings
